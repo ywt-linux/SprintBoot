@@ -1,0 +1,6 @@
+com/example/dbapplication/Message/Message.class
+com/example/dbapplication/Message/MessageRepository.class
+com/example/dbapplication/Message/MessageController.class
+com/example/dbapplication/DbApplication.class
+com/example/dbapplication/Message/MessageConfig.class
+com/example/dbapplication/Message/MessageService.class
